@@ -47,6 +47,6 @@ class ModelViewSet {
     }
   }
 
-  module.exports = {
+module.exports = {
     ModelViewSet
 }
